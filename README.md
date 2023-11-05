@@ -38,8 +38,12 @@ used data files:
 
   ![corelation_matrix](https://github.com/JohnNkakuyia/Data-Driven-Film-Selection/blob/main/images/corelation_matrix.jpg)
 
-  
+  combinations of genres that have both high ratings and high gross, as these may be more lucrative.
 
+![domestic_gross](https://github.com/JohnNkakuyia/Data-Driven-Film-Selection/blob/main/images/domestic_gross.jpg)
 
+## Conclusions
+
+This analysis leads to three recommendations for a profitable movie selection
 
 Here is the [jupyter Notebook](http://localhost:8888/notebooks/Data-Driven%20Film%20Selection%20for%20Microsoft's%20Movie%20Studio.ipynb) and [presentation.pdf](https://github.com/JohnNkakuyia/Data-Driven-Film-Selection/blob/main/presentation.pdf.pdf)link
