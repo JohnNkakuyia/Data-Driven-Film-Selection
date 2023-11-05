@@ -29,9 +29,15 @@ used data files:
 * bom.movie_gross
 
   ## Methods
-  This project uses descriptive analysis, including description to show relation on movies genres popularity and gross income. This can help in making profitable choices and build a positive reputation.
+  This project uses descriptive analysis, including description to show the relation on movie genres' popularity and gross income. This can help in making profitable choices and build a positive reputation.
   
   ![average_domestic_rating](https://github.com/JohnNkakuyia/Data-Driven-Film-Selection/blob/main/images/average_domestic_rating.png)
+
+  ## Results
+  correlation matrix gives a clear insight that most of the genres are in high demand and yet the domestic gross is quite down
+
+  ![corelation_matrix](https://github.com/JohnNkakuyia/Data-Driven-Film-Selection/blob/main/images/corelation_matrix.png)
+
 
 
 Here is the [jupyter Notebook](http://localhost:8888/notebooks/Data-Driven%20Film%20Selection%20for%20Microsoft's%20Movie%20Studio.ipynb) and [presentation.pdf](https://github.com/JohnNkakuyia/Data-Driven-Film-Selection/blob/main/presentation.pdf.pdf)link
