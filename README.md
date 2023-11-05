@@ -1,18 +1,18 @@
 # Phase 1 Project
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+# Data-Driven Film Selection for Microsoft's Movie Studio
 
-![awesome]([https://github.com/JohnNkakuyia/Data-Driven-Film-Selection/blob/main/microsoft.png.jpg])
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
 
-## Project Overview
+## Overview
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+This project revolves around leveraging data and analytics of the data link, to identify the most profitable film genres, which will enable Microsoft to strategically position its new movie studio for success in the highly competitive film industry.
 
-### Business Problem
+## Business Problem Statement:
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+The objective is to leverage this research to provide actionable insights to the leadership of Microsoft's new movie studio, so that they may make informed decisions regarding the selection of film genres for production.
+
+
 
 ### The Data
 
@@ -30,4 +30,4 @@ It is up to you to decide what data from this to use and how to use it. If you w
 * imdb.title.ratings
 * bom.movie_gross
 
-[jupyter Notebook](http://localhost:8888/notebooks/Data-Driven%20Film%20Selection%20for%20Microsoft's%20Movie%20Studio.ipynb)
+Here is the [jupyter Notebook](http://localhost:8888/notebooks/Data-Driven%20Film%20Selection%20for%20Microsoft's%20Movie%20Studio.ipynb) and [presentation.pdf](https://github.com/JohnNkakuyia/Data-Driven-Film-Selection/blob/main/presentation.pdf.pdf)link
