@@ -2,7 +2,7 @@
 
 # Data-Driven Film Selection for Microsoft's Movie Studio
 
-![awesome]([https://github.com/JohnNkakuyia/Data-Driven-Film-Selection/blob/main/microsoft.png.jpg])
+
 
 ## Overview
 
