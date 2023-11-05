@@ -46,4 +46,9 @@ used data files:
 
 This analysis leads to three recommendations for a profitable movie selection
 
+* Genre Popularity: Analyze which genres are most popular among viewers based on average ratings. Consider producing movies in highly-rated genres to build a positive reputation.
+* Financial Success: Examine which genres generate the highest domestic gross. This can help in making profitable choices.
+* Genre Combinations: Explore combinations of genres that have both high ratings and high gross, as these may be more lucrative.
+
+
 Here is the [jupyter Notebook](http://localhost:8888/notebooks/Data-Driven%20Film%20Selection%20for%20Microsoft's%20Movie%20Studio.ipynb) and [presentation.pdf](https://github.com/JohnNkakuyia/Data-Driven-Film-Selection/blob/main/presentation.pdf.pdf)link
