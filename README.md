@@ -36,7 +36,9 @@ used data files:
   ## Results
   correlation matrix gives a clear insight that most of the genres are in high demand and yet the domestic gross is quite down
 
-  ![corelation_matrix](https://github.com/JohnNkakuyia/Data-Driven-Film-Selection/blob/main/images/corelation_matrix.png)
+  ![corelation_matrix](https://github.com/JohnNkakuyia/Data-Driven-Film-Selection/blob/main/images/corelation_matrix.jpg)
+
+  
 
 
 
