@@ -30,7 +30,7 @@ used data files:
 
   ## Methods
   This project uses descriptive analysis, including description to show relation on movies genres popularity and gross income. This can help in making profitable choices and build a positive reputation.
-![]
+  ![rating](https://github.com/JohnNkakuyia/Data-Driven-Film-Selection/blob/main/images/avarage_domestic_rating.jpg)
 
 
 Here is the [jupyter Notebook](http://localhost:8888/notebooks/Data-Driven%20Film%20Selection%20for%20Microsoft's%20Movie%20Studio.ipynb) and [presentation.pdf](https://github.com/JohnNkakuyia/Data-Driven-Film-Selection/blob/main/presentation.pdf.pdf)link
